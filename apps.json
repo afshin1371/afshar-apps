@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hooshmand",
+    "name": "هوشمند",
+    "icon": "🧠",
+    "version": 15,
+    "force_from": 10,
+    "notes": "سیستم ۵۰ مرحله + لوگوی مغز + شبکه اپ‌ها",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v15-hooshmand/Hooshmand-v15-release.apk",
+    "size_mb": 4
+  }
+]
