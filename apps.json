@@ -13,10 +13,10 @@
     "id": "fitcore",
     "name": "FitCore",
     "icon": "📱",
-    "version": 6,
+    "version": 7,
     "force_from": 1,
-    "notes": "بروزرسانی خودکار نسخه 6",
-    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v6-fitcore/FitCore-v6-release.apk",
+    "notes": "بروزرسانی خودکار نسخه 7",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v7-fitcore/FitCore-v7-release.apk",
     "size_mb": 4
   }
 ]
