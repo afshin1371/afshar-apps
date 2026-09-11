@@ -8,5 +8,15 @@
     "notes": "بروزرسانی خودکار نسخه 20",
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v20-hooshmand/Hooshmand-v20-release.apk",
     "size_mb": 4
+  },
+  {
+    "id": "fitcore",
+    "name": "FitCore",
+    "icon": "📱",
+    "version": 1,
+    "force_from": 1,
+    "notes": "بروزرسانی خودکار نسخه 1",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v1-fitcore/FitCore-v1-release.apk",
+    "size_mb": 4
   }
 ]
