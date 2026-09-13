@@ -7,7 +7,8 @@
     "force_from": 10,
     "notes": "بروزرسانی خودکار نسخه 20",
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v20-hooshmand/Hooshmand-v20-release.apk",
-    "size_mb": 4
+    "size_mb": 4,
+    "desc": "آزمون و یادگیری هوشمند؛ مرحله‌به‌مرحله"
   },
   {
     "id": "fitcore",
@@ -22,11 +23,12 @@
   {
     "id": "math8",
     "name": "Riyaziyar",
-    "icon": "📱",
+    "icon": "📐",
     "version": 3,
     "force_from": 1,
     "notes": "بروزرسانی خودکار نسخه 3",
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v3-math8/Riyaziyar-v3-release.apk",
-    "size_mb": 4
+    "size_mb": 4,
+    "desc": "ریاضی هشتم؛ ۹ فصل با ویدیو و تمرین"
   }
 ]
