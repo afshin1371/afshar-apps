@@ -18,5 +18,15 @@
     "notes": "بروزرسانی خودکار نسخه 93",
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v93-fitcore/FitCore-v93-release.apk",
     "size_mb": 4
+  },
+  {
+    "id": "math8",
+    "name": "Riyaziyar",
+    "icon": "📱",
+    "version": 1,
+    "force_from": 1,
+    "notes": "بروزرسانی خودکار نسخه 1",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v1-math8/Riyaziyar-v1-release.apk",
+    "size_mb": 4
   }
 ]
