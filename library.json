@@ -1,0 +1,34 @@
+[
+  {
+    "id": "zehni-zendegi-audio",
+    "title": "ذهنی که زندگی را می‌سازد (صوتی)",
+    "type": "audio",
+    "author": "Afshin Afshar",
+    "size_mb": 328,
+    "url": "https://archive.org/download/afshar-books/zehni_zendegi_audio.mp3"
+  },
+  {
+    "id": "zehni-zendegi-book",
+    "title": "ذهنی که زندگی را می‌سازد (کتاب)",
+    "type": "pdf",
+    "author": "Afshin Afshar",
+    "size_mb": 1,
+    "url": "https://archive.org/download/afshar-books/zehni_zendegi_book.pdf"
+  },
+  {
+    "id": "az-aghoosh-ta-esteghlal-audio",
+    "title": "از آغوش تا استقلال (صوتی)",
+    "type": "audio",
+    "author": "Afshin Afshar",
+    "size_mb": 113,
+    "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_audio.mp3"
+  },
+  {
+    "id": "az-aghoosh-ta-esteghlal-book",
+    "title": "از آغوش تا استقلال (کتاب)",
+    "type": "pdf",
+    "author": "Afshin Afshar",
+    "size_mb": 1,
+    "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_book.pdf"
+  }
+]
