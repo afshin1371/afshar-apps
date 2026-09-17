@@ -1,23 +1,29 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-18",
   "books": [
-    {
-      "id": "zehni",
-      "title": "ذهنی که زندگی را می‌سازد",
-      "author": "Afshin Afshar",
+    { "id": "zehni", "title": "ذهنی که زندگی را می‌سازد", "author": "Afshin Afshar",
       "formats": [
-        { "type": "audio", "size_mb": 314, "duration": "~7 ساعت", "url": "https://archive.org/download/afshar-books/zehni_zendegi_audio.mp3" },
-        { "type": "pdf", "size_mb": 1.4, "url": "https://archive.org/download/afshar-books/zehni_zendegi_book.pdf" }
-      ]
-    },
-    {
-      "id": "aghoosh",
-      "title": "از آغوش تا استقلال",
-      "author": "Afshin Afshar",
+        { "type": "audio", "size_mb": 314, "url": "https://archive.org/download/afshar-books/zehni_zendegi_audio.mp3" },
+        { "type": "pdf", "size_mb": 1.4, "url": "https://archive.org/download/afshar-books/zehni_zendegi_book.pdf" } ] },
+    { "id": "aghoosh", "title": "از آغوش تا استقلال", "author": "Afshin Afshar",
       "formats": [
-        { "type": "audio", "size_mb": 108, "duration": "~18 ساعت", "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_audio.mp3" },
-        { "type": "pdf", "size_mb": 0.6, "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_book.pdf" }
-      ]
-    }
+        { "type": "audio", "size_mb": 108, "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_audio.mp3" },
+        { "type": "pdf", "size_mb": 0.6, "url": "https://archive.org/download/afshar-books/az_aghoosh_ta_esteghlal_book.pdf" } ] },
+    { "id": "tamrin", "title": "تمرین و تغذیه پیشرفته بدنسازی", "author": "Afshin Afshar",
+      "formats": [
+        { "type": "audio", "size_mb": 118, "url": "https://archive.org/download/afshar-books/tamrin_badansazi_audio.mp3" },
+        { "type": "pdf", "size_mb": 0.5, "url": "https://archive.org/download/afshar-books/tamrin_badansazi_book.pdf" } ] },
+    { "id": "naghshe", "title": "نقشه راه بازارهای مالی و ارزهای دیجیتال", "author": "Afshin Afshar",
+      "formats": [
+        { "type": "audio", "size_mb": 132, "url": "https://archive.org/download/afshar-books/naghshe_bazarha_audio.mp3" },
+        { "type": "pdf", "size_mb": 0.5, "url": "https://archive.org/download/afshar-books/naghshe_bazarha_book.pdf" } ] },
+    { "id": "shir", "title": "شیر درون، الاغ بیرون", "author": "Afshin Afshar",
+      "formats": [
+        { "type": "audio", "size_mb": 93, "url": "https://archive.org/download/afshar-books/shir_daroon_audio.mp3" },
+        { "type": "pdf", "size_mb": 0.3, "url": "https://archive.org/download/afshar-books/shir_daroon_book.pdf" } ] },
+    { "id": "man", "title": "من، مسیر من، آینده من", "author": "Afshin Afshar",
+      "formats": [
+        { "type": "audio", "size_mb": 49, "url": "https://archive.org/download/afshar-books/man_masir_audio.mp3" },
+        { "type": "pdf", "size_mb": 0.2, "url": "https://archive.org/download/afshar-books/man_masir_book.pdf" } ] }
   ]
 }
