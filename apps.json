@@ -36,10 +36,10 @@
     "name": "Adadyar",
     "icon": "∑",
     "desc": "ریاضی نهم؛ ۸ فصل با ویدیو، تمرین و کمک‌یار",
-    "version": 8,
+    "version": 9,
     "force_from": 1,
-    "notes": "بروزرسانی خودکار نسخه 8",
-    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v8-math9/Adadyar-v8-release.apk",
+    "notes": "بروزرسانی خودکار نسخه 9",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v9-math9/Adadyar-v9-release.apk",
     "size_mb": 4
   }
 ]
