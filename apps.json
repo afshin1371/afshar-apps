@@ -30,5 +30,16 @@
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v42-math8/Math8-v42-release.apk",
     "size_mb": 4,
     "desc": "ریاضی هشتم؛ ۹ فصل با ویدیو و تمرین"
+  },
+  {
+    "id": "math9",
+    "name": "Adadyar",
+    "icon": "∑",
+    "desc": "ریاضی نهم؛ ۸ فصل با ویدیو، تمرین و کمک‌یار",
+    "version": 1,
+    "force_from": 1,
+    "notes": "بروزرسانی خودکار نسخه 1",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v1-math9/Adadyar-v1-release.apk",
+    "size_mb": 4
   }
 ]
