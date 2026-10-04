@@ -41,5 +41,16 @@
     "notes": "بروزرسانی خودکار نسخه 102",
     "url": "https://github.com/afshin1371/afshar-apps/releases/download/v102-math9/Adadyar-v102-release.apk",
     "size_mb": 4
+  },
+  {
+    "id": "arzinx",
+    "name": "ARZINX",
+    "icon": "💹",
+    "desc": "راهنمای بازار ارز دیجیتال؛ نمودار زنده و تحلیل",
+    "version": 1,
+    "force_from": 1,
+    "notes": "بروزرسانی خودکار نسخه 1",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v1-arzinx/ARZINX-v1-release.apk",
+    "size_mb": 4
   }
 ]
