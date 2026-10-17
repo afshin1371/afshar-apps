@@ -47,10 +47,21 @@
     "name": "ARZINX",
     "icon": "💹",
     "desc": "راهنمای بازار ارز دیجیتال؛ نمودار زنده و تحلیل",
-    "version": 6,
+    "version": 7,
     "force_from": 1,
-    "notes": "ARZINX نسخهٔ 6",
-    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v6-arzinx/ARZINX-v6.apk",
-    "size_mb": 5.7
+    "notes": "ArzinaX v7",
+    "url": "https://github.com/afshin1371/afshar-apps/releases/download/v7-arzinx/ARZINX-v7.apk",
+    "size_mb": 10.6,
+    "appName": "ArzinaX",
+    "versionName": "v7",
+    "versionCode": 700,
+    "package": "com.afshar.arzinx",
+    "downloadUrl": "https://github.com/afshin1371/afshar-apps/releases/download/v7-arzinx/ARZINX-v7.apk",
+    "apkUrl": "https://github.com/afshin1371/afshar-apps/releases/download/v7-arzinx/ARZINX-v7.apk",
+    "sha256": "a7883a0862c2213ac6f6b1cf415e29a986f76af8c085e762ea977de41e1a7cb5",
+    "size": 11065621,
+    "updatedAt": "2026-10-17T12:44:05Z",
+    "cert": "cb2833480c9b18cc44bd6896bf875ee4d6e8b0eadeebd492b9392db40713d46a",
+    "source": "ARZ540"
   }
 ]
